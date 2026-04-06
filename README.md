@@ -27,7 +27,7 @@ Date,Value
 ```
 
 ## Try it out
-[https://]()
+[https://mic-208-forecasting-model.vercel.app/](https://mic-208-forecasting-model.vercel.app/)
 
 ## Run it locally
 ```bash
