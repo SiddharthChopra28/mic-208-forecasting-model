@@ -29,7 +29,7 @@ Date,Value
 ## Try it out
 [https://mic-208-forecasting-model.vercel.app/](https://mic-208-forecasting-model.vercel.app/)
 
-**Sample Dataset: ** [Download CSV](https://drive.google.com/file/d/1AyLRRsgx_RmgErnlGbitkzqkESK2co15/view?usp=sharing)
+**Sample Dataset:** [Download CSV](https://drive.google.com/file/d/1AyLRRsgx_RmgErnlGbitkzqkESK2co15/view?usp=sharing)
 ## Run it locally
 ```bash
 npm i
